@@ -18,7 +18,7 @@ Once you log in to your GitHub account, the repository for this task will be add
 
 1. Confirm that `agent-one-tool-practice` appears in your GitHub account.
 2. Clone it and open it in your editor.
-3. Check that you have Python 3.9+ installed: `python --version`.
+3. Check that you have Python 3.11+ installed: `python --version`.
 4. Install the GitHub CLI if you don't have it: [GitHub CLI](https://cli.github.com/).
 
 > **Tickets database**: This repo's GitHub Issues act as the ticket database: 
